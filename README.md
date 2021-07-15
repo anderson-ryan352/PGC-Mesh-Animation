@@ -2,7 +2,9 @@
 
 
 PGC_Mesh Generation
+
   -A mesh is procedurally genereated with Perlin noise throughout a vertice array
+  
   -Individual triangles are created for vertice points based on user settings inside PGC_Controller for mesh size
  # 
 PGC_Controller
