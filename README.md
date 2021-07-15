@@ -21,7 +21,7 @@ PGC_Controller
   
   -Amplitude: Controls height of the wave, default is set to 2
   
-  -Speed: Controls how fast the wave animates, default is set to 5
+  -Speed: Controls how fast the wave moves, default is set to 5
 #  
 Mesh Animation
 
