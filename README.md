@@ -27,7 +27,7 @@ Mesh Animation
 
   -Each frame, the mesh vertices are updated with a sine function to create a wave motion
   
-  -A more complex trig function can be used to simulate real-world water effects, but generally over a large space something akin to the sine fucntion in use suits most applications
+  -A more complex trig function can be used to simulate real-world water effects, but generally over a large space something akin to the sine function in use suits most applications
   
   -This animation does not affect the Perlin noise seed on the mesh but rather animates the entire mesh after generation. This could be used in combination with a Perlin noise texture for even more success in creating water effects
   #
