@@ -1,7 +1,7 @@
 # PGC-Mesh-Animation
 
 Video Demo:
-https://www.youtube.com/watch?v=XaeUTuBKboM
+[https://www.youtube.com/watch?v=XaeUTuBKboM](https://youtu.be/g6r-vHOdnis)
 #
 PGC_Mesh Generation
 
